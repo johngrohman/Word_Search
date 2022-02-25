@@ -1,7 +1,3 @@
-/**
-Implement the main here to match input and output. 
-**/
-
 #include "matrix_search.h"
 
 int main()

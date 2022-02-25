@@ -1,18 +1,4 @@
-/**
-Here in the .cpp you should define and implement the functions that are declared in the .h file.
-It is not recommended to add extra functions on this assignment.
-**/
-
-#include "matrix_search.h"
-
-
-// We're giving you this one the first time, and you should copy it into all future assignments.
-// Change the information to your own email handle (S&T username)
-void get_identity(string &my_id)
-{
-    my_id = "jpgdg6";
-}
-
+#include "matrix.h"
 
 char ** build_matrix(int rows, int cols)
 {

@@ -1,4 +1,4 @@
-#include "matrix.h"
+#include "matrix_search.h"
 
 char ** build_matrix(int rows, int cols)
 {
